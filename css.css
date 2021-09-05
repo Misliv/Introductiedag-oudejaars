@@ -9,4 +9,7 @@ body {
 
 p {
     float: left;
+    border: 1px solid black;
+    text-align: center;
+    padding: 30px;
 }
